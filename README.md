@@ -1,4 +1,4 @@
-## Materials for "Large language models open up new opportunities and challenges for psychometric assessment of artificial intelligence"
+## Materials for "AI Psychometrics: Using psychometric inventories to obtain psychological profiles of large language models"
 
 `answerdf*.tsv` contain all model responses (those data files can be also be created using `retrieving_model_responses.py`)
 
